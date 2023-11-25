@@ -2,7 +2,7 @@
 The Monopoly Project allows users to play Monopoly on their computer with 2-4 players.
 
 ## Rules
-The rules of the Monopoly Project mimic
+The rules of the Monopoly Project mimic the rules of the Monopoly game by Hasbros.
 
 Run Main.java to start the game!
 
