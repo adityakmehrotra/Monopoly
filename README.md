@@ -7,3 +7,7 @@ The rules of the Monopoly Project mimic the rules of the Monopoly game by Hasbro
 Run Main.java to start the game!
 
 Download all files before running
+
+### Files
+#### `Board.java`:
+- 
