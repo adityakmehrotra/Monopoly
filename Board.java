@@ -79,7 +79,6 @@ public class Board {
 				IDList[i] = generateID("P", i);
 			}
 		}
-
 		return IDList;
 	}
 
