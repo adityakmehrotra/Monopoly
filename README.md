@@ -18,5 +18,7 @@ Download all files before running
 #### `CommunityChest.java`:
 - 
 #### `Game.java`:
-- s
+- 
 #### `Player.java`:
+- s
+#### `Property.java`:
