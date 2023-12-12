@@ -20,5 +20,8 @@ Download all files before running
 #### `Game.java`:
 - 
 #### `Player.java`:
-- s
+- 
 #### `Property.java`:
+- 
+### PropertyList.json:
+- s
