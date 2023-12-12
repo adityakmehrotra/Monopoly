@@ -97,8 +97,7 @@ public class Game {
 	}
 
 	public static void playerOneTurn(Player player, ArrayList<Player> playerList, Chance chanceCards,
-			CommunityChest communityChestCards)
-			throws FileNotFoundException, JSONException, IOException, ParseException, java.text.ParseException {
+			CommunityChest communityChestCards) throws FileNotFoundException, JSONException, IOException, ParseException, java.text.ParseException {
 		Scanner scanner = new Scanner(System.in);
 
 		if (player.getInJail() == true) {
