@@ -142,7 +142,6 @@ public class Game {
 							rollDice(player, playerList, chanceCards, communityChestCards, count);
 						}
 					} else {
-
 						player.setJailCount(1);
 					}
 
