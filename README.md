@@ -14,5 +14,7 @@ Download all files before running
 - The Board is built using an array of Strings
   - Each String is a unique ID for the square on the board
 #### `Chance.java`:
-- s
+- 
 #### `CommunityChest.java`:
+- s
+#### `Game.java`:
