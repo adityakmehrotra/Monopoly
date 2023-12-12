@@ -16,5 +16,7 @@ Download all files before running
 #### `Chance.java`:
 - 
 #### `CommunityChest.java`:
-- s
+- 
 #### `Game.java`:
+- s
+#### `Player.java`:
