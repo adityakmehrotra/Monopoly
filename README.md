@@ -31,8 +31,9 @@ Download all files before running
 - This file has functions that return the rent of the property, given which other propertys and houses/hotels the player has
 #### `PropertyList.json`:
 - This is a JSON file holding all of the squares on the board
-- Each square has all of its attributes
-- - Example:
+  - Each square has all of its attributes
+- This JSON file also holds all of the Chance and Community Chest Cards
+  - Each card has the title and description of the card
 #### `Railroad.java`:
 - 
 #### `Utility.java`:
