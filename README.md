@@ -15,9 +15,9 @@ Download all files before running
   - Each String is a unique ID for the square on the board
 #### `Chance.java`:
 - Java file that represents the Chance class that hold all of the Chance operations including:
-  - This includes
+  - Generating the Stack of Chance cards
+  - 
 - The Chance cards are randomly placed into a Stack data structure
-  - T
 #### `CommunityChest.java`:
 - 
 #### `Game.java`:
