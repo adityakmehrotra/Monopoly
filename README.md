@@ -30,7 +30,9 @@ Download all files before running
 - This java file is the Property class that holds all of the Property operations
 - This file has functions that return the rent of the property, given which other propertys and houses/hotels the player has
 #### `PropertyList.json`:
-- 
+- This is a JSON file holding all of the squares on the board
+- Each square has all of its attributes
+- - Example:
 #### `Railroad.java`:
 - 
 #### `Utility.java`:
