@@ -26,7 +26,6 @@ Download all files before running
 #### `Player.java`:
 - This java file is the Player class that holds all of the Player operations including:
   - Setting all of the player's holdings (Propertys, Cash, Get Out of Jail Free Cards, etc.)
-- Java file that 
 #### `Property.java`:
 - 
 #### `PropertyList.json`:
