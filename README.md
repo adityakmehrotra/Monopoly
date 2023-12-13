@@ -4,9 +4,8 @@ The Monopoly Project allows users to play Monopoly on their computer with 2-4 pl
 ## Rules
 The rules of the Monopoly Project mimic the rules of the Monopoly game by Hasbros.
 
-Run Main.java to start the game!
-
-Download all files before running
+Download all of the files first
+Then, run `Game.java` to start and play the game!
 
 ### Files
 #### `Board.java`:
