@@ -22,8 +22,10 @@ Then, run `Game.java` to start and play the game!
   - Each value in the stack holds an ID representing the Community Chest card
 ### `Game.java`:
 - This is the main Java file that gets information from the user
-  - How many players are playing?, etc.
+  - How many players are playing? (2-4), etc.
 - This file creates an instance of the Player class for each player
+- This file also holds all of the interplayer functions
+  - Auctioning properties, trading, etc.
 ### `Player.java`:
 - This java file is the Player class that holds all of the Player operations including:
   - Setting all of the player's holdings (Propertys, Cash, Get Out of Jail Free Cards, etc.)
