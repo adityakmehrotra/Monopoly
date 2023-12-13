@@ -28,6 +28,7 @@ Download all files before running
   - Setting all of the player's holdings (Propertys, Cash, Get Out of Jail Free Cards, etc.)
 #### `Property.java`:
 - This java file is the Property class that holds all of the Property operations
+- This file has functions that return the rent of the property, given which other propertys and houses/hotels the player has
 #### `PropertyList.json`:
 - 
 #### `Railroad.java`:
