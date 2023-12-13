@@ -34,6 +34,8 @@ Then, run `Game.java` to start and play the game!
 - This JSON file also holds all of the Chance and Community Chest Cards
   - Each card has the title and description of the card
 #### `Railroad.java`:
+- This java file is the Railroad class that holds all of the Railroad operations
+- This file has functions that return the rent of the railroad, given which other railroads the player has
 - 
 #### `Utility.java`:
 - 
