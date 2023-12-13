@@ -21,6 +21,8 @@ Then, run `Game.java` to start and play the game!
 - The Community Chest cards are randomly placed into a Stack data structure
   - Each value in the stack holds an ID representing the Community Chest card
 ### `Game.java`:
+- This is the main Java file that gets information from the user
+  - How many players are playing?, etc.
 - 
 ### `Player.java`:
 - This java file is the Player class that holds all of the Player operations including:
