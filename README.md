@@ -36,6 +36,5 @@ Then, run `Game.java` to start and play the game!
 #### `Railroad.java`:
 - This java file is the Railroad class that holds all of the Railroad operations
 - This file has functions that return the rent of the railroad, given which other railroads the player has
-- 
 #### `Utility.java`:
 - This file has functions that return the rent of the utility, given which other utilities the player has, and what the roll of the dice was (as this changes the value of rent)
