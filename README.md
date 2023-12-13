@@ -18,9 +18,9 @@ Download all files before running
 - The Chance cards are randomly placed into a Stack data structure
   - Each value in the stack holds an ID representing the Chance card
 #### `CommunityChest.java`:
-- Java file that represents the Chance class that hold all of the Chance operations
-- The Chance cards are randomly placed into a Stack data structure
-  - Each value in the stack holds an ID representing the Chance card
+- Java file that represents the Community Chest class that hold all of the Community Chest operations
+- The Community Chest cards are randomly placed into a Stack data structure
+  - Each value in the stack holds an ID representing the Community Chest card
 - 
 #### `Game.java`:
 - 
