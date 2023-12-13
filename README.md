@@ -23,7 +23,7 @@ Then, run `Game.java` to start and play the game!
 ### `Game.java`:
 - This is the main Java file that gets information from the user
   - How many players are playing?, etc.
-- 
+- This file creates an instance of the Player class for each player
 ### `Player.java`:
 - This java file is the Player class that holds all of the Player operations including:
   - Setting all of the player's holdings (Propertys, Cash, Get Out of Jail Free Cards, etc.)
