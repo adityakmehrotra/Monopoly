@@ -16,7 +16,6 @@ The rules of the Monopoly Project mimic the rules of the Monopoly game by Hasbro
   - `Railroad.java`
   - `Utility.java`
 - You can run the `Game.java` file through your IDE/Console.
-- 
 
 ## Files
 ### `Board.java`:
