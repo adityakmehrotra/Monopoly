@@ -13,6 +13,7 @@ The rules of the Monopoly Project mimic the rules of the Monopoly game by Hasbro
   - `Player.java`
   - `Property.java`
   - `PropertyList.json`
+  - `Railroad.java`
   - `Utility.java`
 
 ## Files
