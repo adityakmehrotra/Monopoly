@@ -9,6 +9,7 @@ The rules of the Monopoly Project mimic the rules of the Monopoly game by Hasbro
   - `Board.java`
   - `Chance.java`
   - `CommunityChest.java`
+  - `Game.java`
   - `Utility.java`
 
 ## Files
