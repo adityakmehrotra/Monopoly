@@ -55,4 +55,4 @@ The rules of the Monopoly Project mimic the rules of the Monopoly game by Hasbro
 - This file has functions that return the rent of the utility, given which other utilities the player has, and what the roll of the dice was (as this changes the value of rent)
 
 ## Last Updated
-02/25/2024
+03/02/2024
