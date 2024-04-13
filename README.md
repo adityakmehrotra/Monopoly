@@ -1,8 +1,48 @@
 # Monopoly
-The Monopoly Project allows users to play Monopoly on their computer with 2-4 players.
+
+## Overview
+
+The Monopoly Project is a Java-based implementation of the classic board game Monopoly. It allows 2-4 players to play Monopoly on their computer, adhering closely to the traditional rules set by Hasbro.
+
+## Features
+
+- **Multiplayer Support**: Play with 2 to 4 players.
+- **Game Components**: Includes classes representing different components of the game such as properties, players, utilities, railroads, community chest, and chance cards.
+- **Interactive Gameplay**: Supports auctioning properties, trading among players, and other interactive elements of Monopoly.
 
 ## Rules
-The rules of the Monopoly Project mimic the rules of the Monopoly game by Hasbros.
+
+The game mimics the standard rules of Monopoly by Hasbro. Players move around the board, buying or trading properties, collecting rent, drawing cards, and building houses, while trying to bankrupt their opponents.
+
+## Getting Started
+
+### Prerequisites
+
+You need to have Java installed on your computer to run this project. Visit [Java's official website](https://www.java.com/en/download/) to download and install it if you haven't already.
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/Monopoly.git
+   cd Monopoly
+   ```
+2. **Compile the Java files**:
+   
+   You can compile the Java files using any Java-compatible IDE or directly from the command line:
+   
+   ```bash
+   javac Game.java
+   ```
+
+3. **Run the game**:
+   
+   ```bash
+   java Game
+   ```
+
+## Usage
+After starting the game, follow the on-screen prompts to choose the number of players and start the game. Players will make choices through the console about their moves, purchases, and other actions during their turn.
 
 ## Run the Game
 - Download the required files:
@@ -53,6 +93,10 @@ The rules of the Monopoly Project mimic the rules of the Monopoly game by Hasbro
 ### `Utility.java`:
 - This java file is the Utility class that holds all of the Utility operations
 - This file has functions that return the rent of the utility, given which other utilities the player has, and what the roll of the dice was (as this changes the value of rent)
+
+
+## Contributing
+Contributions to this project are welcome! Please fork the repository, make your changes, and submit a pull request for review.
 
 ## Last Updated
 03/27/2024
