@@ -1,6 +1,6 @@
 // Monopoly
 // Created By: Aditya Mehrotra
-// Last Update: 04/21/2024
+// Last Updated: 04/21/2024
 
 import java.util.ArrayList;
 
