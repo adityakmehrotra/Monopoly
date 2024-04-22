@@ -98,5 +98,5 @@ After starting the game, follow the on-screen prompts to choose the number of pl
 ## Contributing
 Contributions to this project are welcome! Please fork the repository, make your changes, and submit a pull request for review.
 
-## Last Updated
+### Last Updated
 03/27/2024
