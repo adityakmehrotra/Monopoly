@@ -12,7 +12,7 @@ The Monopoly Project is a fully playable cloud-based Monopoly game hosted on an 
 
 ## Tech Stack
 
-- **Frontend**: React, TypeScript
+- **Frontend**: React and TypeScript
 - **Backend**: Go
 - **Hosting**: AWS EC2
 
