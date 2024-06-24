@@ -12,9 +12,9 @@ The Monopoly Project is a fully playable cloud-based Monopoly game hosted on an 
 
 ## Tech Stack
 
-- **Frontend**: React and TypeScript
-- **Backend**: Go
-- **Hosting**: AWS EC2
+- **Frontend:** React and TypeScript
+- **Backend:** Go
+- **Hosting:** AWS EC2
 
 ## Getting Started
 
@@ -28,7 +28,7 @@ The Monopoly Project is a fully playable cloud-based Monopoly game hosted on an 
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/monopoly-web-app.git
+git clone https://github.com/adityakmehrotra/monopoly-web-app.git
 cd monopoly-web-app
 ```
 
