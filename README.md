@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Monopoly Project is a fully playable cloud-based Monopoly game hosted on an AWS EC2 instance. The frontend is developed using React and TypeScript, offering an interactive and responsive user experience. The backend, engineered with Go, supports gameplay mechanics, property management, and multiplayer functionalities, ensuring a robust and engaging platform for classic Monopoly enthusiasts.
+The Monopoly Project is a fully playable cloud-based Monopoly game hosted on an AWS EC2 instance. The frontend is developed using React and TypeScript, offering an interactive and responsive user experience. The backend, engineered with Go, supports gameplay mechanics, property management, and multiplayer functionalities, ensuring an engaging platform for the Monopoly game, created by Hasbro.
 
 ## Features
 
