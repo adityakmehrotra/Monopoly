@@ -40,6 +40,32 @@ cd frontend
 npm install
 ```
 
+#### Set Up the Backend
+
+Ensure Go is installed and set up, then navigate to the backend directory:
+```bash
+cd ../backend
+go build
+```
+
+### Running the Application
+
+#### Start the Backend Server
+```bash
+./backend
+```
+
+#### Start the Frontend
+
+Open another terminal and start the frontend:
+```bash
+cd frontend
+npm start
+```
+
+The frontend should now be accessible on http://localhost:3000.
+
+
 ## Rules
 
 The game mimics the standard rules of Monopoly by Hasbro. Players move around the board, buying or trading properties, collecting rent, drawing cards, and building houses, while trying to bankrupt their opponents.
