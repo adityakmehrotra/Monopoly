@@ -16,6 +16,21 @@ The Monopoly Project is a fully playable cloud-based Monopoly game hosted on an 
 - **Backend**: Go
 - **Hosting**: AWS EC2
 
+## Getting Started
+
+### Prerequisites
+- Node.js and npm
+- Go
+- AWS account and AWS CLI configured
+
+### Installation
+
+#### Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/monopoly-web-app.git
+cd monopoly-web-app
+```
 
 ## Rules
 
