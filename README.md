@@ -32,6 +32,14 @@ git clone https://github.com/yourusername/monopoly-web-app.git
 cd monopoly-web-app
 ```
 
+#### Set Up the Frontend
+
+Navigate to the frontend directory and install dependencies:
+```bash
+cd frontend
+npm install
+```
+
 ## Rules
 
 The game mimics the standard rules of Monopoly by Hasbro. Players move around the board, buying or trading properties, collecting rent, drawing cards, and building houses, while trying to bankrupt their opponents.
