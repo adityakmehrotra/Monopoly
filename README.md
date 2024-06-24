@@ -6,9 +6,11 @@ The Monopoly Project is a fully playable cloud-based Monopoly game hosted on an 
 
 ## Features
 
-- **Multiplayer Support**: Play with 2 to 4 players.
-- **Game Components**: Includes classes representing different components of the game such as properties, players, utilities, railroads, community chest, and chance cards.
-- **Interactive Gameplay**: Supports auctioning properties, trading among players, and other interactive elements of Monopoly.
+- **Interactive Frontend**: Developed with React and TypeScript for a responsive and dynamic user interface.
+- **Advanced Backend**: Engineered in Go, implementing features such as property management, sophisticated gameplay rules, and multiplayer mechanics.
+- **Cloud Hosting**: Deployed on an AWS EC2 instance for reliable and scalable access.
+
+## Tech Stack
 
 ## Rules
 
