@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Monopoly Project is a Java-based implementation of the classic board game Monopoly. It allows 2-4 players to play Monopoly on their computer, adhering closely to the traditional rules set by Hasbro.
+The Monopoly Project is a fully playable cloud-based Monopoly game hosted on an AWS EC2 instance. The frontend is developed using React and TypeScript, offering an interactive and responsive user experience. The backend, crafted in Go, supports intricate gameplay mechanics, property management, and multiplayer functionalities, ensuring a robust and engaging platform for classic Monopoly enthusiasts.
 
 ## Features
 
