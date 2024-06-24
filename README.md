@@ -12,6 +12,11 @@ The Monopoly Project is a fully playable cloud-based Monopoly game hosted on an 
 
 ## Tech Stack
 
+- **Frontend**: React, TypeScript
+- **Backend**: Go
+- **Hosting**: AWS EC2
+
+
 ## Rules
 
 The game mimics the standard rules of Monopoly by Hasbro. Players move around the board, buying or trading properties, collecting rent, drawing cards, and building houses, while trying to bankrupt their opponents.
